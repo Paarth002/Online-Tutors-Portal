@@ -19,34 +19,33 @@ Images:
   <img src="media/Home2.jpg" width="100%" title="1">
 </p><br/>
 <p align="center">
-  Posts
   <img src="media/Home3.jpg" width="100%" title="1">
 </p><br/>
 <p align="center">
-  Live Messaging
+  Student Home Page
   <img src="media/Student1.jpg" width="100%" title="1">
 </p></br>
 <p align="center">
-  Add Friends
+  Tutor Home Page
   <img src="media/tutorinfo.jpeg" width="100%" title="1">
 </p><br/>
 <p align="center">
-  Add Friends
+  Parent Home Page
   <img src="media/parenthome.jpg" width="100%" title="1">
 </p><br/>
 
 <p align="center">
-  Add Friends
+  View All Courses
   <img src="media/Parent2.jpg" width="100%" title="1">
 </p><br/>
 
 <p align="center">
-  Add Friends
+  Chat
   <img src="media/chat.jpg" width="100%" title="1">
 </p><br/>
 
 <p align="center">
-  Add Friends
+  Course Info Page
   <img src="media/courseinfo.jpeg" width="100%" title="1">
 </p><br/>
 
