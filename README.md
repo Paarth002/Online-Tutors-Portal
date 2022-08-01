@@ -41,7 +41,7 @@ Images:
 
 <p align="center">
   Chat
-  <img src="media/chat.jpg" width="100%" title="1">
+  <img src="media/Chat.jpg" width="100%" title="1">
 </p><br/>
 
 <p align="center">
