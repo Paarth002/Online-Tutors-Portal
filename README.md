@@ -31,7 +31,7 @@ Images:
 </p><br/>
 <p align="center">
   Parent Home Page
-  <img src="media/parenthome.jpg" width="100%" title="1">
+  <img src="media/parenthome.jpeg" width="100%" title="1">
 </p><br/>
 
 <p align="center">
