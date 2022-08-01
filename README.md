@@ -1,12 +1,36 @@
 # Online Tutor Portal
 #### This is Course project for CS-258 , Group 2
 "Online Tutor Portal" is a website, accessible to anyone with the internet. It provides an all in one solution to education. Tutors can register and teach; parents can search for suitable tutors for each course and enrol their children. The students can then attend classes, watch theory videos and discuss doubts on the forum.<br>
+
 The project contains multiple features -
 1. Course and Tutor Search
 2. Course enrolment
 3. Access Course Material
 4. Attend Classes
 5. Chat with anyone on the platform
+
+Images:
+
+<p align="center">
+  Landing Page
+  <img src="media/Home1.jpg" width="100%" title="1">
+</p>
+<p align="center">
+  <img src="media/Home2.jpg" width="100%" title="1">
+</p><br/>
+<p align="center">
+  Posts
+  <img src="media/Home3.jpg" width="100%" title="1">
+</p><br/>
+<p align="center">
+  Live Messaging
+  <img src="media/Parent1.jpg" width="100%" title="1">
+</p></br>
+<p align="center">
+  Add Friends
+  <img src="media/Student1.jpg" width="100%" title="1">
+</p><br/>
+
 
 For more information of Online-Tutor-Portal you can refer to following documents - <br>
 Link for SRS: [SRS Document](/docs/Software_Requirements_Specification.pdf)  
