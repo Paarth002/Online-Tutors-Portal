@@ -24,13 +24,31 @@ Images:
 </p><br/>
 <p align="center">
   Live Messaging
-  <img src="media/Parent1.jpg" width="100%" title="1">
+  <img src="media/Student1.jpg" width="100%" title="1">
 </p></br>
 <p align="center">
   Add Friends
-  <img src="media/Student1.jpg" width="100%" title="1">
+  <img src="media/tutorinfo.jpeg" width="100%" title="1">
+</p><br/>
+<p align="center">
+  Add Friends
+  <img src="media/parenthome.jpg" width="100%" title="1">
 </p><br/>
 
+<p align="center">
+  Add Friends
+  <img src="media/Parent2.jpg" width="100%" title="1">
+</p><br/>
+
+<p align="center">
+  Add Friends
+  <img src="media/chat.jpg" width="100%" title="1">
+</p><br/>
+
+<p align="center">
+  Add Friends
+  <img src="media/courseinfo.jpeg" width="100%" title="1">
+</p><br/>
 
 For more information of Online-Tutor-Portal you can refer to following documents - <br>
 Link for SRS: [SRS Document](/docs/Software_Requirements_Specification.pdf)  
